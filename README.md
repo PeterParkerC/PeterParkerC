@@ -32,4 +32,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peterparkerc&" alt="peterparkerc" /></p>
 
 <h6 align="left"> template: </h6>
-<a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">amajaying</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator" target="_blank">amajaying</a>

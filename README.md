@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **fluid simulation**
 
-- 👨‍💻 All of my projects are available at [PeterParkerC.github.io](PeterParkerC.github.io)
+- 👨‍💻 All of my projects are available at [PeterParkerC.github.io](https://PeterParkerC.github.io)
 
 - 📫 How to reach me **siuheicheung@gmail.com**
 
@@ -30,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peterparkerc&show_icons=true&locale=en" alt="peterparkerc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peterparkerc&" alt="peterparkerc" /></p>
+
+<h6 align="left"> template: </h6>
+<a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">amajaying</a>

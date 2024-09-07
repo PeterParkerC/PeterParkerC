@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Peter, Cheung Siu Hei</h1>
 <h3 align="center">An Physics Mphi in the Chinese University of Hong Kong</h3>
 
-- 🔭 I’m currently working on **a gravitation N-body GPU simulation using GENGA**
-
-- 🌱 I’m currently learning **Blender**
-
-- 👯 I’m looking to collaborate on **fluid simulation**
-
+- 🔭 I’m currently working on **Accretion induced collapse of white dwarf**
+  
 - 👨‍💻 All of my projects are available at [PeterParkerC.github.io](https://PeterParkerC.github.io)
 
-- 📫 How to reach me **siuheicheung@gmail.com**
-
-- ⚡ Fun fact **I play Valorant**
+- 📫 How to reach me **shchuengpeter@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

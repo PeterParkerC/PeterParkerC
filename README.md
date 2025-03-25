@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Accretion induced collapse of white dwarf**
   
-- 👨‍💻 All of my projects are available at [PeterParkerC.github.io](https://PeterParkerC.github.io)
+<> - 👨‍💻 All of my projects are available at [PeterParkerC.github.io](https://PeterParkerC.github.io)
 
 - 📫 How to reach me **shchuengpeter@gmail.com**
 

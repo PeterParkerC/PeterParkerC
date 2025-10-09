@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Accretion induced collapse of white dwarf**
   
 
-- 📫 How to reach me **shchuengpeter@gmail.com**
+- 📫 How to reach me **shchuengpeter@link.cuhk.edu.hk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

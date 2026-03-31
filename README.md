@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter, Cheung Siu Hei</h1>
-<h3 align="center">A Physics Mphil in the Chinese University of Hong Kong</h3>
+<h3 align="center">A Phd student in the Heidelberg University, working in HITS</h3>
 
-- 🔭 I’m currently working on **Accretion induced collapse of white dwarf**
+- 🔭 I’m currently working on **Simulations of Common Envelope Evolution**
   
 
 - 📫 How to reach me **peter.shcheung@h-its.org**
